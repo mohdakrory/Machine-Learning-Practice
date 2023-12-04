@@ -210,7 +210,17 @@
 
 ## Label encoding of categorical features 
 
-Ordinal encoding on [cut, color, clarity] based on their order which is mentioned in the dataset description 
+**Ordinal encoding on [cut, color, clarity] based on their order which is mentioned in the dataset description**
+
+cut_label_mapping = {
+   'Fair':0, 'Good':1, 'Very Good':2, 'Premium':3, 'Ideal':4
+}
+color_label_mapping = {
+    'J':0, 'I':1, 'H':2, 'G':3, 'F':4, 'E':5, 'D':6
+}
+clarity_label_mapping = {
+    'I1':0, 'SI2':1, 'SI1':2, 'VS2':3, 'VS1':4, 'VVS2':5, 'VVS1':6, 'IF':7
+}
 
 <table>
   <thead>
