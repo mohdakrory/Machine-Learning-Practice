@@ -437,3 +437,7 @@ Silhouette Score: 0.5981532592652027
 
 ![Cluster_ 4 Data Visualization](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/b3276914-d980-499a-a683-3464ae8638ab)
 
+
+## Kaggle notebook
+
+[Notebook](https://www.kaggle.com/code/mohamedeldakrory8/customer-segmentation-for-personalized-marketing)
