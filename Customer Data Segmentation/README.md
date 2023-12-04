@@ -163,4 +163,23 @@ Divide customer data into 5 clusters for personalized marketing purposes
   </tr>
 </table>
 
+## Label encoding of categorical features
+
+**Ordinal encoding of [gender,	marital_status, purchase_history]**
+
+purchase_history_label_mapping = {
+    'Low': 0,
+    'Medium': 1,
+    'High': 2
+}
+
+gender_label_mapping = {
+    'F': 0,
+    'M': 1
+}
+
+marital_status_label_mapping = {
+    'Single': 0,
+    'Married': 1
+}
 
