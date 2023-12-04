@@ -2,7 +2,7 @@
 
 This repository comprises illustrative examples showcasing the application of traditional machine learning algorithms across various datasets to address diverse tasks.
 
-## Diamond price prediction: 
+## Diamond Price Prediction: 
 
 Building a regression model that predicts the price of a diamond based on its characteristics
 
@@ -15,7 +15,7 @@ This Example consists of:
 - Fitting different Regressors and result comparison
 - Creating a preprocessing function to make predictions on a new observation (Deployment)
 
-## Customer segmentation 
+## Customer Data Segmentation 
 
 Dividing customer data into 5 clusters for personalized marketing purposes 
 
