@@ -83,9 +83,10 @@ Divide customer data into 5 clusters for personalized marketing purposes
   </tr>
 </table>
 
-**397 rows × 9 columns**
+397 rows × 9 columns
 
 **Data visualization**
+
 ![Data Visualization](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/46462675-5c6c-4b04-b695-e21c5d4f4e5f)
 
 **Numerical data descriptive statistics**
