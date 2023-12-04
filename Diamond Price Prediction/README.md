@@ -108,6 +108,102 @@
 
 ![Data Visualization](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/6038175a-32cf-456a-9a46-49c019fe5170)
 
+## Numerical features descriptive statistics
+
+<table border="1">
+  <tr>
+    <th></th>
+    <th>carat</th>
+    <th>depth</th>
+    <th>table</th>
+    <th>price</th>
+    <th>x</th>
+    <th>y</th>
+    <th>z</th>
+  </tr>
+  <tr>
+    <td>count</td>
+    <td>53940.000000</td>
+    <td>53940.000000</td>
+    <td>53940.000000</td>
+    <td>53940.000000</td>
+    <td>53940.000000</td>
+    <td>53940.000000</td>
+    <td>53940.000000</td>
+  </tr>
+  <tr>
+    <td>mean</td>
+    <td>0.797940</td>
+    <td>61.749405</td>
+    <td>57.457184</td>
+    <td>3932.799722</td>
+    <td>5.731157</td>
+    <td>5.734526</td>
+    <td>3.538734</td>
+  </tr>
+  <tr>
+    <td>std</td>
+    <td>0.474011</td>
+    <td>1.432621</td>
+    <td>2.234491</td>
+    <td>3989.439738</td>
+    <td>1.121761</td>
+    <td>1.142135</td>
+    <td>0.705699</td>
+  </tr>
+  <tr>
+    <td>min</td>
+    <td>0.200000</td>
+    <td>43.000000</td>
+    <td>43.000000</td>
+    <td>326.000000</td>
+    <td>0.000000</td>
+    <td>0.000000</td>
+    <td>0.000000</td>
+  </tr>
+  <tr>
+    <td>25%</td>
+    <td>0.400000</td>
+    <td>61.000000</td>
+    <td>56.000000</td>
+    <td>950.000000</td>
+    <td>4.710000</td>
+    <td>4.720000</td>
+    <td>2.910000</td>
+  </tr>
+  <tr>
+    <td>50%</td>
+    <td>0.700000</td>
+    <td>61.800000</td>
+    <td>57.000000</td>
+    <td>2401.000000</td>
+    <td>5.700000</td>
+    <td>5.710000</td>
+    <td>3.530000</td>
+  </tr>
+  <tr>
+    <td>75%</td>
+    <td>1.040000</td>
+    <td>62.500000</td>
+    <td>59.000000</td>
+    <td>5324.250000</td>
+    <td>6.540000</td>
+    <td>6.540000</td>
+    <td>4.040000</td>
+  </tr>
+  <tr>
+    <td>max</td>
+    <td>5.010000</td>
+    <td>79.000000</td>
+    <td>95.000000</td>
+    <td>18823.000000</td>
+    <td>10.740000</td>
+    <td>58.900000</td>
+    <td>31.800000</td>
+  </tr>
+</table>
+
+
 ## Label encoding of categorical features 
 
 Ordinal encoding on [cut, color, clarity] based on their order which is mentioned in the dataset description 
