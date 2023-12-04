@@ -183,3 +183,107 @@ marital_status_label_mapping = {
     'Married': 1
 }
 
+**One-hot encoding of [education]**
+
+Mapping table
+
+<table border="1">
+  <tr>
+    <th>category</th>
+    <th>is_master</th>
+    <th>is_phd</th>
+  </tr>
+  <tr>
+    <td>bachelor</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>master</td>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>phd</td>
+    <td>0</td>
+    <td>1</td>
+  </tr>
+</table>
+
+These 3 categories were mapped into 2 columns to avoid the dummy variable trap
+
+<table border="1">
+  <tr>
+    <th>age</th>
+    <th>gender</th>
+    <th>income</th>
+    <th>marital_status</th>
+    <th>spending_score</th>
+    <th>purchase_history</th>
+    <th>website_visits</th>
+    <th>loyalty_points</th>
+    <th>is_master</th>
+    <th>is_phd</th>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>1</td>
+    <td>50000</td>
+    <td>0</td>
+    <td>70</td>
+    <td>2</td>
+    <td>10</td>
+    <td>100</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>0</td>
+    <td>60000</td>
+    <td>1</td>
+    <td>50</td>
+    <td>1</td>
+    <td>5</td>
+    <td>50</td>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>0</td>
+    <td>80000</td>
+    <td>1</td>
+    <td>80</td>
+    <td>2</td>
+    <td>15</td>
+    <td>200</td>
+    <td>0</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>1</td>
+    <td>70000</td>
+    <td>0</td>
+    <td>65</td>
+    <td>2</td>
+    <td>8</td>
+    <td>150</td>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>0</td>
+    <td>40000</td>
+    <td>0</td>
+    <td>35</td>
+    <td>0</td>
+    <td>3</td>
+    <td>20</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
+
