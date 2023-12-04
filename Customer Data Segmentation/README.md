@@ -437,6 +437,9 @@ Silhouette Score: 0.5981532592652027
 
 ![Cluster_ 4 Data Visualization](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/b3276914-d980-499a-a683-3464ae8638ab)
 
+## Model diagram
+
+![diagram](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/f303c067-96fb-44db-84f0-9575cef66fe3)
 
 ## Kaggle notebook
 
