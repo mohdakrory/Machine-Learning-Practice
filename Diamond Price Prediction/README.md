@@ -5,6 +5,8 @@
 
 [Diamonds](https://www.kaggle.com/datasets/shivam2503/diamonds/)
 
+ **Samples from the dataset**
+ 
 <table>
   <thead>
     <tr>
@@ -83,6 +85,8 @@
     </tr>
   </tbody>
 </table>
+
+53940 rows × 10 columns
 
 ***price:*** price in US dollars (\$326--\$18,823)
 
