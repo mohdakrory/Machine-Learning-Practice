@@ -287,3 +287,80 @@ These 3 categories were mapped into 2 columns to avoid the dummy variable trap
   </tr>
 </table>
 
+## Feature scaling using Standard Scaler 
+
+<table border="1">
+  <tr>
+    <th>age</th>
+    <th>gender</th>
+    <th>income</th>
+    <th>marital_status</th>
+    <th>spending_score</th>
+    <th>purchase_history</th>
+    <th>website_visits</th>
+    <th>loyalty_points</th>
+    <th>is_master</th>
+    <th>is_phd</th>
+  </tr>
+  <tr>
+    <td>-1.727283</td>
+    <td>1.081387</td>
+    <td>-0.986698</td>
+    <td>-1.210718</td>
+    <td>0.314977</td>
+    <td>0.747177</td>
+    <td>-0.106140</td>
+    <td>-0.440634</td>
+    <td>-0.817354</td>
+    <td>-0.599657</td>
+  </tr>
+  <tr>
+    <td>-0.495283</td>
+    <td>-0.924738</td>
+    <td>-0.421039</td>
+    <td>0.825956</td>
+    <td>-0.826473</td>
+    <td>-0.632494</td>
+    <td>-0.866748</td>
+    <td>-1.001132</td>
+    <td>1.223460</td>
+    <td>-0.599657</td>
+  </tr>
+  <tr>
+    <td>0.736718</td>
+    <td>-0.924738</td>
+    <td>0.710280</td>
+    <td>0.825956</td>
+    <td>0.885702</td>
+    <td>0.747177</td>
+    <td>0.654467</td>
+    <td>0.680363</td>
+    <td>-0.817354</td>
+    <td>1.667619</td>
+  </tr>
+  <tr>
+    <td>0.120717</td>
+    <td>1.081387</td>
+    <td>0.144621</td>
+    <td>-1.210718</td>
+    <td>0.029614</td>
+    <td>0.747177</td>
+    <td>-0.410383</td>
+    <td>0.119865</td>
+    <td>1.223460</td>
+    <td>-0.599657</td>
+  </tr>
+  <tr>
+    <td>-1.111283</td>
+    <td>-0.924738</td>
+    <td>-1.552357</td>
+    <td>-1.210718</td>
+    <td>-1.682561</td>
+    <td>-2.012164</td>
+    <td>-1.170991</td>
+    <td>-1.337431</td>
+    <td>-0.817354</td>
+    <td>-0.599657</td>
+  </tr>
+</table>
+
