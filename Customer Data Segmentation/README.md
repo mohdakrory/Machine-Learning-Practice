@@ -364,3 +364,36 @@ These 3 categories were mapped into 2 columns to avoid the dummy variable trap
   </tr>
 </table>
 
+## Fitting the K-means algorithm to get 5 clusters
+
+Silhouette Score: 0.5981532592652027
+
+**clusters count**
+
+<table border="1">
+  <tr>
+    <th>Cluster</th>
+    <th>Count</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>131</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>82</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>79</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>78</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>27</td>
+  </tr>
+</table>
+
