@@ -389,9 +389,9 @@ Ordinal encoding on [cut, color, clarity] based on their order which is mentione
     </tr>
 </table>
 
-## Flow diagram
+## Model diagram
 
-
+![flow diagram](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/cdd9ad16-d8d1-406c-b27f-cb63158677dd)
 
 ## Kaggle notebook
 
