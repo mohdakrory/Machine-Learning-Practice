@@ -389,6 +389,10 @@ Ordinal encoding on [cut, color, clarity] based on their order which is mentione
     </tr>
 </table>
 
+## Flow diagram
+
+
+
 ## Kaggle notebook
 
 [Diamond Price Prediction](https://www.kaggle.com/code/mohamedeldakrory8/diamond-price-prediction)
