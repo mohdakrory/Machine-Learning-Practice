@@ -104,9 +104,9 @@
 
 ***depth:*** total depth percentage = z / mean(x, y) = 2 * z / (x + y)  (43--79)
 
-![diamond-14](https://github.com/mohdakrory/ML-Practice/assets/67663339/3d1f4d02-1cfa-49cc-ad76-5ca687ea94b8)
+![diamond-14](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/6adc78fa-b160-4d7f-a156-024531782d11)
 
-![Data Visualization](https://github.com/mohdakrory/ML-Practice/assets/67663339/fb061470-3b66-4ef1-a99a-b5b5fed8f14d)
+![Data Visualization](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/6038175a-32cf-456a-9a46-49c019fe5170)
 
 ## Label encoding of categorical features 
 
