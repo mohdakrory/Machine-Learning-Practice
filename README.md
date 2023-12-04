@@ -8,7 +8,8 @@ Building a regression model that predicts the price of a diamond based on its ch
 
 This Example consists of:
 
-- Dataset description and visualization using Matplotlib and Pandas profile report 
+- Dataset description and visualization using Matplotlib and Pandas profile report
+- numerical data descriptive statistics
 - Label encoding of ordinal features
 - Feature scaling using a MinMax scaler
 - Fitting different Regressors and result comparison
