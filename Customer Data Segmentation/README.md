@@ -168,8 +168,7 @@ Divide customer data into 5 clusters for personalized marketing purposes
 
 **Pandas profile report**
 
-For further descriptive information about this dataset click [here](https://amber-enriqueta-4.tiiny.site)
-
+For further descriptive information about this dataset click <a href="[https://example.com](https://amber-enriqueta-4.tiiny.site)" target="_blank">here</a>
 ## Label encoding of categorical features
 
 **Ordinal encoding of [gender,	marital_status, purchase_history]**
