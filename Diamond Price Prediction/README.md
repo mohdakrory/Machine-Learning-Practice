@@ -110,6 +110,8 @@
 
 ![diamond-14](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/6adc78fa-b160-4d7f-a156-024531782d11)
 
+**Data visualization**
+
 ![Data Visualization](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/6038175a-32cf-456a-9a46-49c019fe5170)
 
 ## Numerical features descriptive statistics
