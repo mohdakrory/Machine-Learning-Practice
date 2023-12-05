@@ -17,7 +17,7 @@ This Example consists of:
 
 ## Customer Data Segmentation 
 
-Dividing customer data into 5 clusters for personalized marketing purposes 
+Dividing customers data into 5 clusters for personalized marketing purposes 
 
 This Example consists of:
 
