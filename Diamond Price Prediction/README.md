@@ -211,7 +211,7 @@
 
 **Pandas profile report**
 
-For further descriptive information about this dataset click [here](diamond-price-prediction.tiiny.site)
+For further descriptive information about this dataset click [here](https://diamond-price-prediction.tiiny.site)
 
 ## Label encoding of categorical features 
 
