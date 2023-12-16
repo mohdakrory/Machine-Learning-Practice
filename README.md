@@ -12,12 +12,13 @@ This Example consists of:
 - Numerical data descriptive statistics
 - Label encoding of ordinal features
 - Feature scaling using a MinMax scaler
+- Train-test split
 - Fitting different Regressors and result comparison
 - Creating a preprocessing function to make predictions on a new observation (Deployment)
 
 ## Customer Data Segmentation 
 
-Dividing customers data into 5 clusters for personalized marketing purposes 
+Dividing customers' data into 5 clusters for personalized marketing purposes 
 
 This Example consists of:
 
