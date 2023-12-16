@@ -383,7 +383,17 @@ clarity_label_mapping = {
   </tbody>
 </table>
 
-## Result comparison of fitting different regressors from the scikit-learn module
+## Train-test split
+
+**Train:Test -> 0.8:0.2**
+
+Total no. of samples: 53940
+
+No. of training samples: 43152
+
+No. of testing samples: 10788
+
+## Result comparison of fitting different regressors from the scikit-learn module on the test set
 
 <table>
   <thead>
