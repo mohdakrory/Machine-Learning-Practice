@@ -135,3 +135,8 @@ Predict the salary of an employee based on some relevant information using Pytho
 ---------------------------------------------
 ### 6 Deployment code
 ---------------------------------------------
+
+## PyQt5 GUI Demo
+
+![Demo](https://github.com/mohdakrory/Machine-Learning-Practice/assets/67663339/6368fa8d-36af-4ad1-a3eb-837cb68f575d)
+
