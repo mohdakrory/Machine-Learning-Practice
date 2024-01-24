@@ -65,6 +65,9 @@ Predict the salary of an employee based on some relevant information using Pytho
 
 ## Notebook content list
 
+You can find this notebook also on [kaggle](https://www.kaggle.com/code/mohamedeldakrory8/salary-prediction)
+
+You can find the used dataset also on [kaggle](https://www.kaggle.com/datasets/mohamedeldakrory8/salary-prediction-data) 
 
 **This notebook contains the following topics**
 
