@@ -68,13 +68,16 @@ Predict the salary of an employee based on some relevant information using Pytho
 
 **This notebook contains the following topics**
 
-#############################################
+
+---------------------------------------------
 ### 1 Dataset description 
+---------------------------------------------
 #### 1.1 Load data & preview
 #### 1.2 Column description
 #### 1.3 Dropping unnecessary columns
-#############################################
+---------------------------------------------
 ### 2 Exploratory data analysis
+---------------------------------------------
 #### 2.1 Missing values
 #### 2.2 Data types
 #### 2.3 Unique values of each column
@@ -95,39 +98,40 @@ Predict the salary of an employee based on some relevant information using Pytho
 #### 2.18 Correlation heatmap
 #### 2.19 Pair plot
 #### 2.20 Pandas profile report
-#############################################
+---------------------------------------------
 ### 3 Feature Engineering & Preprocessing
 ---------------------------------------------
+#############################################
 #### 3.1 Missing values
----------------------------------------------
 ##### 3.1.1 Missing values in the 'DOJ' column
 ##### 3.1.2 Missing values in 'AGE' column
 ##### 3.1.3 Imputing missing values in 'LEAVES USED' & 'LEAVES REMAINING'
 ##### 3.1.4 Imputing missing values in 'RATINGS'
----------------------------------------------
+#############################################
 #### 3.2 Driving new variables
----------------------------------------------
 ##### 3.2.1 DURATION variable
 ##### 3.2.2 Correlation between DURATION and SALARY
 ##### 3.2.3 'DURATION' descriptive stats
----------------------------------------------
+#############################################
 #### 3.3 Feature encoding
----------------------------------------------
 ##### 3.3.1 Label encoding of 'SEX'
 ##### 3.3.2 Ordinal encoding of 'DESIGNATION'
 ##### 3.3.3 One-hot encoding of 'UNIT'
----------------------------------------------
-### 3.4 Imputation of 'RATING' using KNN Imputer
----------------------------------------------
-### 3.5 Train-test split (0.8 : 0.2)
----------------------------------------------
 #############################################
+### 3.4 Imputation of 'RATING' using KNN Imputer
+#############################################
+### 3.5 Train-test split (0.8 : 0.2)
+
+
+---------------------------------------------
 ### 4 Regression model development & Evaluation
+---------------------------------------------
 #### 4.1 Fitting different regressors with all features
 #### 4.2 Best performing model
 #### 4.3 Fitting the best performing model on highly correlated features
 #### 4.4 Saving the best model
-#############################################
+---------------------------------------------
 ### 5 Pipeline diagram
-#############################################
+---------------------------------------------
 ### 6 Deployment code
+---------------------------------------------
