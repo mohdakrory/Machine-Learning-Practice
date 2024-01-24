@@ -18,7 +18,7 @@ This Example consists of:
 
 ## Customer Data Segmentation 
 
-Dividing customers' data into 5 clusters for personalized marketing purposes 
+Dividing customers' data into 5 clusters for personalized marketing purposes
 
 This Example consists of:
 
@@ -30,3 +30,8 @@ This Example consists of:
 - Fitting the K-means algorithm
 - Description and visualization of each cluster 
 - Creating a preprocessing function to make predictions on a new observation (Deployment)
+
+## Salary Prediction 
+
+Predict the salary of an employee based on some relevant information using Python, Scikit-learn, Matplotlib, Seaborn, and Pandas 
+
