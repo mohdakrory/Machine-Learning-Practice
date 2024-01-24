@@ -93,7 +93,7 @@ Predict the salary of an employee based on some relevant information using Pytho
 #### 2.13 PAST EXP vs SALARY stats
 #### 2.14 RATINGS vs SALARY stats
 #### 2.15 AGE vs SALARY stats
-#### 2.16 box plot of discrete numeric features VS salary
+#### 2.16 box plot of discrete numeric features VS SALARY
 #### 2.17 SALARY distribution
 #### 2.18 Correlation heatmap
 #### 2.19 Pair plot
