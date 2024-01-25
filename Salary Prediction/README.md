@@ -121,9 +121,9 @@ You can find the used dataset also on [kaggle](https://www.kaggle.com/datasets/m
 ##### 3.3.2 Ordinal encoding of 'DESIGNATION'
 ##### 3.3.3 One-hot encoding of 'UNIT'
 #############################################
-### 3.4 Imputation of 'RATING' using KNN Imputer
+#### 3.4 Imputation of 'RATING' using KNN Imputer
 #############################################
-### 3.5 Train-test split (0.8 : 0.2)
+#### 3.5 Train-test split (0.8 : 0.2)
 
 
 ---------------------------------------------
