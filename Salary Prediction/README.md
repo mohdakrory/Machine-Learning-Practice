@@ -108,7 +108,7 @@ You can find the used dataset also on [kaggle](https://www.kaggle.com/datasets/m
 
 #### 3.1 Missing values
 - 3.1.1 Missing values in the 'DOJ' column
-- 3.1.2 Missing values in 'AGE' column
+- 3.1.2 Imputing missing values in 'AGE' column
 - 3.1.3 Imputing missing values in 'LEAVES USED' & 'LEAVES REMAINING'
 - 3.1.4 Imputing missing values in 'RATINGS'
 
